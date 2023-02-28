@@ -18,3 +18,20 @@ Specification
 | Language | Librairie(s) | URL |
  |:-----:| :------:| :-----: |
 | Python | Selenium | [HUDOC](https://hudoc.echr.coe.int/fre#%20)
+
+---
+
+## Installation
+
+```bash
+pip install selenium
+pip install webdriver-manager
+```
+
+---
+
+## Collaborateur
+
+- Romain SENHADJI <3
+
+- Lucas SACCOMAN
